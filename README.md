@@ -28,5 +28,3 @@ Platform game made in Unity
 ![image](https://github.com/domus55/Casual-game/blob/master/Images/Image20.jpg)
 ![image](https://github.com/domus55/Casual-game/blob/master/Images/Image21.jpg)
 ![image](https://github.com/domus55/Casual-game/blob/master/Images/Image22.jpg)
-
-![asd](https://drive.google.com/open?id=1a_s-mb7e5PJ8Fj26INCpoqEW-WBVbLYq)
